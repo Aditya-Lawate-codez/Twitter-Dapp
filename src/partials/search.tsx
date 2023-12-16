@@ -1,5 +1,4 @@
 //for search.tsx
-
 import React from "react";
 
 function Search() {
@@ -8,7 +7,6 @@ function Search() {
       <div className="search-tweet">
         <form action="">
           <input type="text" placeholder="Search tweet"></input>
-
           <button>
             <svg
               viewBox="0 0 24 24"
